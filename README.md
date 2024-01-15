@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @starkgame
+- 👀 I’m interested in Node js and python.
